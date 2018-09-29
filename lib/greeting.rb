@@ -2,5 +2,5 @@
 name = "Jonnel"
 
 def greeting(name)
-  puts "Hello "+name+"!"
+  puts "Hello #{name}!"
 end
